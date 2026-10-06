@@ -1,0 +1,3 @@
+# One company per line (case-insensitive). Example placeholders only.
+Acme Spam Corp
+Example Staffing Mill

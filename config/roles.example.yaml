@@ -1,0 +1,11 @@
+families:
+  - name: cloud
+    titles: ["Cloud Architect", "Solutions Architect", "Cloud Engineer", "FinOps"]
+  - name: platform
+    titles: ["Platform Engineer", "SRE", "DevOps", "DevSecOps", "Platform Lead"]
+  - name: aiops
+    titles: ["AIOps", "Observability", "Cloud Ops", "SRE AIOps"]
+  - name: ai
+    titles: ["AI Architect", "MLOps", "LLMOps", "AI Platform", "AI Infra"]
+leadership_overlays: ["Engineering Manager", "Head of", "Director", "AVP", "Principal", "Staff"]
+skip_title_keywords: ["intern", "junior", "sales development", "SDR", "account executive"]

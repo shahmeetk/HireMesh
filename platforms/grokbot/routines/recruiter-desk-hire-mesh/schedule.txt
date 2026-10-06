@@ -1,0 +1,2 @@
+weekdays 09:26/13:26/17:26
+TZ=Asia/Dubai (configurable via HIREMESH_TZ)

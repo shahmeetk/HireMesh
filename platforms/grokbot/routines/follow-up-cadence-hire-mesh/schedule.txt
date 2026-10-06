@@ -1,0 +1,2 @@
+daily 10:53
+TZ=Asia/Dubai (configurable via HIREMESH_TZ)

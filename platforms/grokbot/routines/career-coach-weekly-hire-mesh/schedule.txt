@@ -1,0 +1,2 @@
+Mondays 08:26
+TZ=Asia/Dubai (configurable via HIREMESH_TZ)

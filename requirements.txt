@@ -1,0 +1,3 @@
+# HireMesh scripts use the Python standard library only (urllib, json, re, pathlib, ...).
+# Optional platform extras:
+# openai-agents>=0.0.14   # platforms/chatgpt/agents-sdk

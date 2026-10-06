@@ -1,0 +1,10 @@
+name: "{{CANDIDATE_NAME}}"
+email: candidate@example.com
+phone: "+1-555-0100"
+linkedin: "https://linkedin.com/in/{{CANDIDATE_SLUG}}"
+location: "Dubai, UAE"
+timezone: "Asia/Dubai"
+work_authorization:
+  - "UAE residence"
+  - "remote worldwide (no US payroll-only)"
+summary_hint: "Cloud / Platform / AI leadership"

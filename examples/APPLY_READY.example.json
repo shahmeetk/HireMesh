@@ -1,0 +1,26 @@
+{
+  "updated": "2026-09-25T10:11:00+04:00",
+  "jobs": [
+    {
+      "company": "ExampleCorp",
+      "title": "Platform Engineering Lead",
+      "location": "Remote - Worldwide",
+      "url": "https://boards.example.com/jobs/123",
+      "lane": "remote",
+      "fit_score": 0.84,
+      "guest_ats": true,
+      "ats": "greenhouse",
+      "source": "greenhouse"
+    },
+    {
+      "company": "Desert AI",
+      "title": "Senior AI Solutions Architect",
+      "location": "Dubai, UAE",
+      "url": "https://careers.desert-ai.example/jobs/ai-sa",
+      "lane": "uae",
+      "fit_score": 0.91,
+      "guest_ats": false,
+      "source": "uae_discovery"
+    }
+  ]
+}

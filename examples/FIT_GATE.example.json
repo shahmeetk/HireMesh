@@ -1,0 +1,9 @@
+{
+  "min_score": 0.55,
+  "weights": {
+    "title_family": 0.4,
+    "seniority": 0.2,
+    "lane": 0.2,
+    "freshness": 0.2
+  }
+}
