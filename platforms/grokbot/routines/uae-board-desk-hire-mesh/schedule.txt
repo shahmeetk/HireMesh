@@ -1,0 +1,2 @@
+08:56-16:56/2h
+TZ=Asia/Dubai (configurable via HIREMESH_TZ)

@@ -1,0 +1,11 @@
+timezone: "Asia/Dubai"
+daytime:
+  start_hour: 8
+  end_hour: 18
+  prioritize: "uae"
+night:
+  prioritize: "remote"
+uae_location_keywords: ["UAE", "Dubai", "Abu Dhabi", "Sharjah"]
+remote_keywords: ["remote", "WFA", "worldwide", "anywhere", "distributed"]
+soft_geo_remote_keywords: ["EMEA remote", "Europe remote", "UK remote"]
+hard_skip_geo: ["US citizens only", "EU citizens only", "no remote", "India only", "visa sponsorship not available"]

@@ -1,0 +1,11 @@
+{
+  "worker": "mail_guard",
+  "ts": "2026-09-25T08:56:00+04:00",
+  "bounces": [
+    {
+      "company": "DemoAI",
+      "email": "old-jobs@demoai.example",
+      "dsn": "550 user unknown"
+    }
+  ]
+}

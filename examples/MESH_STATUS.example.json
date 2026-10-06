@@ -1,0 +1,15 @@
+{
+  "suite": "HireMesh",
+  "workers": {
+    "discovery_scout": {
+      "ts": "2026-09-25T10:11:02+04:00",
+      "ok": true,
+      "notes": "+42 apply_ready"
+    },
+    "fit_gate": {
+      "ts": "2026-09-25T10:18:04+04:00",
+      "ok": true,
+      "notes": "kept 86"
+    }
+  }
+}

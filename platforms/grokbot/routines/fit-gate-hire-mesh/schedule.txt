@@ -1,0 +1,2 @@
+:18 every 2h
+TZ=Asia/Dubai (configurable via HIREMESH_TZ)
