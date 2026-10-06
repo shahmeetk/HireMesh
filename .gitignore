@@ -1,0 +1,17 @@
+.env
+queues/
+status/
+inbox/
+tailored/
+*.pdf
+*.log
+__pycache__/
+*.pyc
+.Python
+.venv/
+venv/
+APPLIED_COMPANIES.txt
+APPLIED_URLS.txt
+APPLY_LOG.json
+APPLY_LOG.md
+.DS_Store
